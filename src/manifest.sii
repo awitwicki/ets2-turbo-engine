@@ -1,0 +1,12 @@
+SiiNunit
+{
+mod_package : .package_name
+{
+    package_version: "1.0"
+    display_name: "Volvo FH6 Turbo Engine & Trasnmission"
+    author: "Kodzu"
+    category[]: "other"
+    icon: "logo.jpg"
+    compatible_versions[]: "1.58.*"
+}
+}

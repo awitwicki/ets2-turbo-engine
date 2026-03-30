@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_engine_data : d17fh6.volvo.fh_2024.engine
+{
+	name: "Potuzhny Turbo Engine"
+	price: 26000
+	unlock: 1
+	info[]: "1250 @@hp@@ (+920@@kw@@)"
+	info[]: "3@@dg@@550 @@nm@@"
+	info[]: "1@@dg@@050-1@@dg@@400 @@rpm@@"
+
+	icon: "engine_volvo_d13"
+	torque: 11350
+	rpm_limit: 2100
+	volume: 16.1
+	no_adblue_power_limit: 1
+
+@include "sound_hi.sui"
+}
+}
